@@ -3,7 +3,7 @@
 
 An interactive, natural-language-to-SQL data exploration assistant built with Streamlit. This application leverages **LangChain SQL Agents** and Groq's high-performance `llama-3.3-70b-versatile` model to allow users to text-chat directly with databases—either a local SQLite instance or a remote enterprise MySQL server.
 
-**Live Link:** 
+**Live Link:** https://chatwithsqldbrag.streamlit.app/
 
 ---
 
